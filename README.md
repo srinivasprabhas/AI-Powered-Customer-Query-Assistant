@@ -4,5 +4,6 @@ A ChatGPT-driven chatbot that answers customer inquiries about products, order s
 
 
 Core Features:
-o Real-time natural language responses for FAQs.
-o Integration with product inventory APIs for personalized answers.
+
+Real-time natural language responses for FAQs.
+Integration with product inventory APIs for personalized answers.
