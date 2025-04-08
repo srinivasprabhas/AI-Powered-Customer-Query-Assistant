@@ -1,7 +1,9 @@
 # AI-chatbot
 A ChatGPT-driven chatbot that answers customer inquiries about products, order statuses, refunds, and store policies.
 
-Live link: https://17230f4cc9612af397.gradio.live/
+the links are dynamically generated every time the code is run 
+
+Demo video link: https://youtu.be/s_67pBpA6Pc
 
 
 Core Features:
